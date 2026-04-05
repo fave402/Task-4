@@ -74,7 +74,7 @@ Represents a guest who books rooms.
 
 ---
 
-## 🧠 OOP Principles Used
+##  OOP Principles Used
 
 ### 1. Encapsulation
 
