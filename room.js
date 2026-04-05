@@ -245,5 +245,5 @@ guest3.reserveRoom(room1);
 // Show available rooms
 Room.showAvailableRooms();
 
-// Final totals
+// Total guests registered
 Guest.showTotalGuests();
